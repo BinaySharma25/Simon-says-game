@@ -2,9 +2,10 @@
  Built a Simon Says Game using HTML, CSS, and JavaScript!
  The game challenges players to repeat an ever-growing sequence of button presses — with audio and visual feedback to enhance the experience.
 
- • Generates random color patterns each round
- • Highlights buttons with sound and animation
- • Tracks user input and level progression
+Features: 
+ • Generates random color patterns each round<br>
+ • Highlights buttons with sound and animation<br>
+ • Tracks user input and level progression<br>
  • Responsive UI for desktop and mobile
 
  This project helped me practice event handling, arrays, game logic, and working with audio elements — all in vanilla JavaScript.
